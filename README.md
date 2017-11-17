@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+11/17/17
 
 ### Student Name:  
-(First and Last Name)
+patrick beverly 
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+making a application the dispays ingredients and instructions in different ways
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://pjblack21.github.io/lesson7_jquery/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Modifying Multiple Elements
+2. The text() Method
+3. How to use effects and animations
 
